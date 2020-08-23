@@ -15,3 +15,5 @@ gui/
 doc/
 lib/
 launcher/
+
+*.pyo
